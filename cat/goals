@@ -1,0 +1,15 @@
+[x] Print a single file
+[x] Print and concatenate multiple files
+[] Handle args
+[] Handle error message
+[] Implement other flags
+
+[x] -b
+[] -e
+[] -l
+[x] -n
+[] -s
+[] -t
+[] -u
+[] -v
+[] - (stdin)

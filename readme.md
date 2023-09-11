@@ -1,6 +1,7 @@
-Opções:
+Done:
 - pwd
-- echo
+
+Available:
 - cat
 - head
 - tail
@@ -11,11 +12,12 @@ Opções:
 - cmp
 - cp
 - less
+- grep (e variantes)
 - kill
 - mv
 - read
 - ln (symlinks)
-- history
+- echo (acho q é do shell)
 
 https://en.wikipedia.org/wiki/List_of_Unix_commands
 
